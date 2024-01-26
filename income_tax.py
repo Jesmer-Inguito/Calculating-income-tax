@@ -16,6 +16,8 @@ def income_tax(income):
 
 # Ask for income
 income = int(input("Please enter the amount of your income: "))
+
 # Create variable to call the function
+tax = income_tax(income)
 
 # Print Income and Tax
