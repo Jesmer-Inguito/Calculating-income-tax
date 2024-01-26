@@ -15,7 +15,7 @@ def income_tax(income):
     return payable_tax
 
 # Ask for income
-
+income = int(input("Please enter the amount of your income: "))
 # Create variable to call the function
 
 # Print Income and Tax
