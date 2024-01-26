@@ -21,3 +21,4 @@ income = int(input("Please enter the amount of your income: "))
 tax = income_tax(income)
 
 # Print Income and Tax
+print(f"Income: ${income} , Income Tax: ${tax}")
